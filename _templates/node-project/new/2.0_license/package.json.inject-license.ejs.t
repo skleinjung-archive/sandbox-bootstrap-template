@@ -3,5 +3,6 @@ inject: true
 to: <%= h.getProjectDir(name) %>/package.json
 before: dependencies
 skip_if: "license"
+eof_last: "false"
 ---
-<% if (locals.license) { %>  "license": "<%= locals.license %>",<% } %>
+<%_ if (locals.license) { %>  "license": "<%= locals.license %>",<% } -%>

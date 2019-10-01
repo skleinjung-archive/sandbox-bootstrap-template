@@ -7,6 +7,6 @@ message: |
 
   Options:
     --name     name of the new project [required]
-    --license  GitHub license ID, or none [use 'node scripts/fetch-license-ids.js' for list of options]
+    --license  SPDX License ID, or none [optional; use 'node scripts/fetch-license-ids.js' for list of options]
 
 ---

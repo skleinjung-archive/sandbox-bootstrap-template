@@ -8,6 +8,8 @@ to: <%= h.getProjectDir(name) %>/package.json
   },
   "devDependencies": {
     "app-root-path": "^2.2.1",
-    "hygen": "^4.0.9"
+    "hygen": "^4.0.9",
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.0"
   }
 }
