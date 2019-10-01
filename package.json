@@ -1,0 +1,13 @@
+{
+  "name": "sandbox-bootstrap",
+  "version": "0.1.0",
+  "description": "Sandbox created via the sandbox-bootstrap project.",
+  "repository": "https://github.com/thrashplay/sandbox-bootstrap-template.git",
+  "author": "Sean Kleinjung <sean@thrashplay.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "hygen": "^4.0.9"
+  }
+}
